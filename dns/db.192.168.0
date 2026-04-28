@@ -1,0 +1,15 @@
+$TTL 86400
+@   IN  SOA ns.nicebusiness.local. admin.nicebusiness.local. (
+                2026042801  ; Serial
+                3600        ; Refresh
+                1800        ; Retry
+                604800      ; Expire
+                86400 )     ; Negative Cache TTL
+
+; Servidor de nombres
+@   IN  NS  ns.nicebusiness.local.
+
+; Registros PTR (solo la parte del host)
+12  IN  PTR ns.nicebusiness.local.
+12  IN  PTR nicebusiness.local.
+12  IN  PTR www.nicebusiness.local.

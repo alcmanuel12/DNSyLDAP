@@ -1,0 +1,20 @@
+dn: uid=asanchez,ou=informaticos,dc=coolcompany,dc=org
+objectClass: inetOrgPerson
+cn: Alberto Sanchez
+sn: Sanchez
+uid: asanchez
+userPassword: Info2026!
+
+dn: uid=lmoreno,ou=informaticos,dc=coolcompany,dc=org
+objectClass: inetOrgPerson
+cn: Laura Moreno
+sn: Moreno
+uid: lmoreno
+userPassword: Info2026!
+
+dn: uid=rjimenez,ou=informaticos,dc=coolcompany,dc=org
+objectClass: inetOrgPerson
+cn: Roberto Jimenez
+sn: Jimenez
+uid: rjimenez
+userPassword: Info2026!

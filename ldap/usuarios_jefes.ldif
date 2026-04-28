@@ -1,0 +1,20 @@
+dn: uid=jgarcia,ou=jefes,dc=coolcompany,dc=org
+objectClass: inetOrgPerson
+cn: Juan Garcia
+sn: Garcia
+uid: jgarcia
+userPassword: Jefe2026!
+
+dn: uid=mlopez,ou=jefes,dc=coolcompany,dc=org
+objectClass: inetOrgPerson
+cn: Maria Lopez
+sn: Lopez
+uid: mlopez
+userPassword: Jefe2026!
+
+dn: uid=cperez,ou=jefes,dc=coolcompany,dc=org
+objectClass: inetOrgPerson
+cn: Carlos Perez
+sn: Perez
+uid: cperez
+userPassword: Jefe2026!

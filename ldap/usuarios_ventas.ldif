@@ -1,0 +1,20 @@
+dn: uid=amartinez,ou=ventas,dc=coolcompany,dc=org
+objectClass: inetOrgPerson
+cn: Ana Martinez
+sn: Martinez
+uid: amartinez
+userPassword: Ventas2026!
+
+dn: uid=sruiz,ou=ventas,dc=coolcompany,dc=org
+objectClass: inetOrgPerson
+cn: Sofia Ruiz
+sn: Ruiz
+uid: sruiz
+userPassword: Ventas2026!
+
+dn: uid=pnavarro,ou=ventas,dc=coolcompany,dc=org
+objectClass: inetOrgPerson
+cn: Pablo Navarro
+sn: Navarro
+uid: pnavarro
+userPassword: Ventas2026!

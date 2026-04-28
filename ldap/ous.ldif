@@ -1,0 +1,11 @@
+dn: ou=jefes,dc=coolcompany,dc=org
+objectClass: organizationalUnit
+ou: jefes
+
+dn: ou=ventas,dc=coolcompany,dc=org
+objectClass: organizationalUnit
+ou: ventas
+
+dn: ou=informaticos,dc=coolcompany,dc=org
+objectClass: organizationalUnit
+ou: informaticos
